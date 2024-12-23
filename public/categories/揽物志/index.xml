@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>揽物志 on Harper&#39;s Blog</title>
+    <link>http://localhost:1313/categories/%E6%8F%BD%E7%89%A9%E5%BF%97/</link>
+    <description>Recent content in 揽物志 on Harper&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>cn</language>
+    <lastBuildDate>Tue, 10 Sep 2024 14:18:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%8F%BD%E7%89%A9%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于搭博客这件事</title>
+      <link>http://localhost:1313/posts/aboutblog/</link>
+      <pubDate>Tue, 10 Sep 2024 14:18:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/aboutblog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

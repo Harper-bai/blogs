@@ -43,7 +43,7 @@ post = "/blog/:title/"
 [params]
 description = "To think, To write, To discovery" 
 #disqus = "joway" # disqus account name
-extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53624533-8"></script><script src="https://cdn.jsdelivr.net/gh/joway/homepage/analytics.js"></script>' 
+extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-RX8XFW02MH"></script>'
 favicon = "/logo.png" 
 headTitle = "Harper's Blog" 
 mainSections = ["posts"] 

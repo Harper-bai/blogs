@@ -6,6 +6,14 @@
     <description>Recent content on Harper&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 12:23:28 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloblog</title>
+      <link>http://localhost:1313/en/posts/helloblog/</link>
+      <pubDate>Mon, 23 Dec 2024 12:23:28 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/helloblog/</guid>
+      <description>&lt;p&gt;Hello, blog!&lt;/p&gt;&#xA;&lt;p&gt;This is a test article.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

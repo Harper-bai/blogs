@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-25T14:53:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://localhost:1313/categories/"
+                />
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-30T15:03:00+08:00</lastmod>
+    <lastmod>2025-01-25T14:53:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-30T15:03:00+08:00</lastmod>
+    <lastmod>2025-01-25T14:53:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,21 +41,17 @@
                 href="http://localhost:1313/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/posts/orbital/</loc>
+    <lastmod>2025-01-25T14:53:40+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E8%AF%BB%E4%B9%A6%E5%BF%97/</loc>
+    <lastmod>2025-01-25T14:53:40+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/21-year-old/</loc>
+    <lastmod>2024-12-30T15:03:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2024summary/</loc>
     <lastmod>2024-12-29T21:56:59+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-29T21:56:59+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://localhost:1313/categories/"
-                />
   </url><url>
     <loc>http://localhost:1313/categories/%E5%B9%B4%E7%BA%AA%E4%BA%8B/</loc>
     <lastmod>2024-12-29T21:56:59+08:00</lastmod>
@@ -67,9 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/241202-241208/</loc>
     <lastmod>2024-12-09T16:20:59+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E8%AF%BB%E4%B9%A6%E5%BF%97/</loc>
-    <lastmod>2024-11-13T15:16:58+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-fish-doesnt-exist/</loc>
     <lastmod>2024-11-13T15:16:58+08:00</lastmod>

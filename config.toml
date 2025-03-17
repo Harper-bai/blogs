@@ -27,6 +27,11 @@ noClasses = true
 style = "tango"
 tabWidth = 2
 
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
 [languages]
 [languages.en]
    contentDir = "content/en"
